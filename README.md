@@ -1,7 +1,5 @@
 # 👋 Hi, I’m @BadushaBasheer
 
-![Welcome](https://your-image-link.com/welcome-banner.png)
-
 ## About Me
 
 - 👀 **I’m interested in:**
